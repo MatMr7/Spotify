@@ -1,2 +1,2 @@
 # Spotify
-A homepage do Spotify utilizando bootstrap. -- Spotify homepage using bootstrap.
+A homepage do Spotify de forma responsiva utilizando bootstrap. -- Spotify responsive homepage using bootstrap.
